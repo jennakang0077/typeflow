@@ -2,6 +2,10 @@
 
 A Figma plugin that generates typography systems, tokens, text styles, and developer-ready outputs.
 
+## Website
+
+https://jennakang0077.github.io/typeflow-landing/
+
 ## Features
 
 - Generate typography scale
